@@ -43,7 +43,7 @@ Below error occours either due to wrong URL or due to issue with the host system
 ![image](https://user-images.githubusercontent.com/56585018/85201858-21771880-b320-11ea-8ff0-ee026afcd5a5.png)
 
 
-#Important_Note 
+# Note
 Always click on "Reset Button" before making any new request or when you see any strange output.
 
 **This project is made from scratch and can have many issues , Feel free for any query or suggestion .**
