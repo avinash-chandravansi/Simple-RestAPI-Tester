@@ -49,8 +49,8 @@ Always click on "Reset Button" before making any new request or when you see any
 
 **This project is made from scratch and can have many issues , Feel free for any query or suggestion .**
 
-Regards 
-Avinash Chandravansi
+Regards  <br>
+Avinash Chandravansi  <br>
 https://avinash-chandravansi.github.io/Website/
 
 
