@@ -50,7 +50,7 @@ Always click on "Reset Button" before making any new request or when you see any
 
 **Regards**  <br>
 Avinash Chandravansi  <br>
-https://avinash-chandravansi.github.io/Website/
+https://avinash-chandravansi.github.io
 
 
 
